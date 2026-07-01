@@ -1,0 +1,4 @@
+interface:
+  display_name: "XHS Andy AI Video"
+  short_description: "Turn references into silent HyperFrames shorts."
+  default_prompt: "Use $xhs-andy-ai-video to turn reference images and a topic into a silent HyperFrames short video."
